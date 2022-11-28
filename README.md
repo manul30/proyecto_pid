@@ -1,8 +1,5 @@
 # proyecto_pid
 
-´´´
 ```
-daw
-´´´
-adwda
+git clone https://github.com/manul30/proyecto_pid.git
 ```
